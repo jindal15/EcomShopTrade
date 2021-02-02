@@ -1,6 +1,8 @@
 # EcomShopTrade
 Ecom shopping website, where user can buy the product and add to cart. After adding to Cart, user can increase the quantity of the product to purchase.
 
+The application is build using HTML,CSS,Bootstrap and ReactJS.
+
 Before you can build this project, you must install and configure the following dependencies on your machine:
 
 
