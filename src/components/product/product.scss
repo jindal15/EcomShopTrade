@@ -1,0 +1,41 @@
+.card-body {
+  padding: 15px;
+}
+.option {
+  width: 37px;
+  height: 37px;
+  cursor: pointer;
+  border: 1px solid #c4c4c4;
+  background-color: #ffffff;
+  border-radius: 50%;
+  /* padding: 10px; */
+  line-height: 37px;
+  text-align: center;
+}
+.option:hover {
+  border: 1px solid #000000;
+}
+.discount {
+  color: red;
+}
+.cart-button {
+  cursor: pointer;
+  border: 1px solid #878787;
+  box-sizing: border-box;
+  border-radius: 3px;
+  background: #ffffff;
+  width: -webkit-fill-available;
+}
+
+.column {
+  width: 20%;
+  float: left;
+  padding: 5px 10px;
+}
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}

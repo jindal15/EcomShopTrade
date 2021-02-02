@@ -1,0 +1,19 @@
+.filter_btn{
+  cursor: pointer;
+  border: none;
+  outline: none;
+  border: 1px solid #C4C4C4;
+  border-radius: 52px;
+  background: #FFFFFF;
+  color: #878787;
+}
+.active, .filter_btn:hover{
+  border: 1px solid #000000;
+  font-weight: 500;
+  color: #000000;
+  outline: none
+}
+.filters .dropdown-menu{
+  cursor: pointer;
+  border-radius: 10%
+}
